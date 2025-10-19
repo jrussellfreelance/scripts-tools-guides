@@ -1,5 +1,5 @@
 # Scripts, Tools, and Guides
-> This repository is a collection of scripts, tools, and guides I written during my contracting practice.  It contains convenience scripts, how-to articles, procedures, and eventually some various tooling that facilitates various tasks.
+> This repository is a collection of scripts, tools, and guides I have written during my contracting practice.  It contains convenience scripts, how-to articles, procedures, and eventually some various tooling that facilitates various tasks.
 
 ## Guides to Create
 - How to install and configure a local firewall
